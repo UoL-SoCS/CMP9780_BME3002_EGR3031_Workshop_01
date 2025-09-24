@@ -1,8 +1,8 @@
 {
   "name": "Python Codespace",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
-  "postCreateCommand": "pip install -r requirements.txt",
-  "postStartCommand": "jupyter notebook --ip=0.0.0.0 --no-browser --allow-root",
+  "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt",
+  "postStartCommand": "echo 'Codespace ready!'",
   "forwardPorts": [8888],
   "customizations": {
     "vscode": {
