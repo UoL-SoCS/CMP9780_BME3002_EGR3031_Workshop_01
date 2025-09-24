@@ -1,6 +1,5 @@
 nbformat
 nbconvert
-pickle
 chardet
 pytest
 notebook
