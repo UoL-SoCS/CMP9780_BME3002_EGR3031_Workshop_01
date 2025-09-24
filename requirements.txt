@@ -1,0 +1,10 @@
+nbformat
+nbconvert
+pickle
+chardet
+pytest
+notebook
+numpy
+
+matplotlib
+scipy
