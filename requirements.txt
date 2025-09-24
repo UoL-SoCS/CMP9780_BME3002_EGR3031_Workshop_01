@@ -5,6 +5,5 @@ chardet
 pytest
 notebook
 numpy
-
 matplotlib
 scipy
