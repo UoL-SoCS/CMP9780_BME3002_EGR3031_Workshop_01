@@ -2,6 +2,9 @@ numpy
 matplotlib
 scipy
 pytest
-nbformat
 nbconvert
 chardet
+nbformat
+nbclient
+jupyter
+ipykernel
